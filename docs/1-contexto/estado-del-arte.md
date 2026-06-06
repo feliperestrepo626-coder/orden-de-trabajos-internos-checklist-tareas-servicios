@@ -1,6 +1,8 @@
 Estado del Arte: Gestión Operativa y Trazabilidad Digital
 
+en este enlace podras evidenciar el cuadro del estado del arte
 
+https://github.com/feliperestrepo626-coder/orden-de-trabajos-internos-checklist-tareas-servicios/blob/main/estado-del-arte.docx
 
 
 Brechas Identificadas:
